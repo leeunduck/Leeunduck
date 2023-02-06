@@ -14,3 +14,5 @@
 <a href="mailto: unducklee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href= "https://www.eliteprospects.com/player/310297/hyun-seok-lee"><img src="https://img.shields.io/badge/nike-111111?style=flat-square&logo=nike&logoColor=white"/></a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeunduck)](https://github.com/leeunduck/github-readme-stats)
