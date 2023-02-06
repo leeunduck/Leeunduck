@@ -16,7 +16,9 @@
 </div>
 
 <div align = "right">
- ### Using stack
+ 
+ ### 💻 Using stack
+ </br>
  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -27,6 +29,7 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
+</br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeunduck&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
 
