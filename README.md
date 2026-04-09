@@ -18,16 +18,16 @@
 <div align="center">
   <h2>🍀 Lee Hyunseok 🍀</h2>
 
-  <a href="https://github.com/leeunduck">
+  <a href="https://github.com/leeunduck" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.eliteprospects.com/player/310297/hyun-seok-lee">
+  <a href="https://www.eliteprospects.com/player/310297/hyun-seok-lee" target="_blank">
     <img src="https://img.shields.io/badge/Hockey-111111?style=for-the-badge&logoColor=white" alt="Hockey" />
   </a>
-  <a href="https://velog.io/@leeunduck/posts">
+  <a href="https://velog.io/@leeunduck/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
-  <a href="mailto:unducklee@gmail.com">
+  <a href="mailto:unducklee@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
@@ -39,7 +39,7 @@
 <hr/>
 
 <p>
-  <a href="https://velog.io/@leeunduck/posts">
+  <a href="https://velog.io/@leeunduck/posts" target="_blank">
     <img
       align="left"
       width="49%"
