@@ -71,5 +71,3 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" alt="Eclipse" />
 </p>
-
-![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=leeunduck&theme=react-dark)
